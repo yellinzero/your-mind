@@ -94,7 +94,7 @@ allowed-tools: WebFetch, Read, Write, Edit, Glob, Bash, mcp__playwright__browser
 
 **标签**：#标签1 #标签2
 **来源**：网络文章
-**收录时间**：YYYY-MM-DD HH:mm
+**收录时间**：YYYY-MM-DD HH:mm（24小时制）
 
 ### 内容摘要
 
@@ -115,7 +115,7 @@ allowed-tools: WebFetch, Read, Write, Edit, Glob, Bash, mcp__playwright__browser
 
 **标签**：#标签1 #标签2
 **来源**：{来源类型}
-**收录时间**：YYYY-MM-DD HH:mm
+**收录时间**：YYYY-MM-DD HH:mm（24小时制）
 
 ### 内容
 

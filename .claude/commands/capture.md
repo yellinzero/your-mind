@@ -33,7 +33,7 @@ allowed-tools: Read, Write, Edit, Bash
 
 ## 灵感标题
 
-**时间**: HH:mm
+**时间**: HH:mm（24小时制，如 14:30）
 
 灵感内容...
 
@@ -53,7 +53,7 @@ allowed-tools: Read, Write, Edit, Bash
 
 ## AI 笔记整理
 
-**时间**: 14:30
+**时间**: 14:30（24小时制）
 
 也许可以用 AI 来自动整理我的笔记，按主题聚类
 

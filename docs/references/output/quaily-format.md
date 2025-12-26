@@ -21,7 +21,7 @@ output/quaily/
 ```yaml
 ---
 slug: article-slug          # URL 标识，英文小写+下划线
-datetime: YYYY-MM-DD HH:mm  # 发布时间
+datetime: YYYY-MM-DD HH:mm  # 发布时间（24小时制）
 summary: 文章摘要            # 1-2 句话概括
 tags:                       # 标签列表
   - 标签1
@@ -36,7 +36,7 @@ cover_image_url: "![[图片名.png]]"  # 封面图（Obsidian 格式）
 | 字段 | 必填 | 说明 |
 |------|------|------|
 | `slug` | 是 | URL 路径标识，使用英文小写和下划线 |
-| `datetime` | 是 | 发布日期时间 |
+| `datetime` | 是 | 发布日期时间（24小时制） |
 | `summary` | 是 | 文章摘要，用于预览和 SEO |
 | `tags` | 是 | 分类标签，数组格式 |
 | `theme` | 否 | 页面主题，默认 light |

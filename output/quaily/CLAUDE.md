@@ -24,7 +24,7 @@ quaily/
 ```yaml
 ---
 slug: article-slug          # URL 标识
-datetime: YYYY-MM-DD HH:mm  # 发布时间
+datetime: YYYY-MM-DD HH:mm  # 发布时间（24小时制）
 summary: 文章摘要
 tags:
   - 标签1

@@ -64,7 +64,7 @@ status: active
 - `{{date}}` → 今天（YYYY-MM-DD）
 - `{{date-1}}` → 昨天
 - `{{date+1}}` → 明天
-- `{{time}}` → 当前时间
+- `{{time}}` → 当前时间（HH:mm，24小时制）
 
 ## 标签规范
 
